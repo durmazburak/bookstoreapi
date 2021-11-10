@@ -1,3 +1,2 @@
-# bookstoreapi
-Book Store API
+# Book Store API
 This repository contains Rest API implementation for bookstore.
